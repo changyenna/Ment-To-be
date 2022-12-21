@@ -8,6 +8,7 @@
   - [Express Setup](#express-setup)
   - [React Setup](#react-setup)
 - [Diagrams](#diagrams)
+- [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
 
 ## Overview
@@ -59,9 +60,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![image](https://user-images.githubusercontent.com/69225604/173145241-d5d42683-c83d-4811-ac55-d55bacf5e25b.png)
 
 ## Screenshots
+Mobile Responsive
 ![image](https://user-images.githubusercontent.com/97314187/208867097-31cefd66-b619-4bdf-9e8a-5ff31c8f3dd1.jpg)
+Dark and Light Mode
 ![image](https://user-images.githubusercontent.com/97314187/208867208-3cc10696-51d9-494a-9deb-52cb3c566af6.jpg)
+Set Up
 ![image](https://user-images.githubusercontent.com/97314187/208867337-edef5524-7498-43c2-9426-675f221cab26.jpg)
+Modals, Drawers, and Forms
 ![image](https://user-images.githubusercontent.com/97314187/208867540-6d39b27c-ec21-448d-9079-45aeb1589451.jpg)
 
 
