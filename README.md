@@ -1,4 +1,4 @@
-# Ment-To Be
+# Ment-To-Be
 ![image](https://user-images.githubusercontent.com/97314187/208865200-4492b31c-4514-4861-91f5-914cd8342b01.jpg)
 
 ## Table of Contents
@@ -57,6 +57,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
   ![image](https://user-images.githubusercontent.com/69225604/173145182-726d5a7c-8e7c-4b1c-9ba1-8a25014ba0ed.png)
 ![image](https://user-images.githubusercontent.com/69225604/173145208-23c81345-49d7-4d8b-99a3-b7ba4cea0c39.png)
 ![image](https://user-images.githubusercontent.com/69225604/173145241-d5d42683-c83d-4811-ac55-d55bacf5e25b.png)
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/97314187/208867097-31cefd66-b619-4bdf-9e8a-5ff31c8f3dd1.jpg)
+![image](https://user-images.githubusercontent.com/97314187/208867208-3cc10696-51d9-494a-9deb-52cb3c566af6.jpg)
+![image](https://user-images.githubusercontent.com/97314187/208867337-edef5524-7498-43c2-9426-675f221cab26.jpg)
+![image](https://user-images.githubusercontent.com/97314187/208867540-6d39b27c-ec21-448d-9079-45aeb1589451.jpg)
 
 
 ## Dependencies
