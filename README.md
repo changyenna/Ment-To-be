@@ -54,7 +54,7 @@ npm start
 4. Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Diagrams
+## Wireframe
   ![image](https://user-images.githubusercontent.com/69225604/173145182-726d5a7c-8e7c-4b1c-9ba1-8a25014ba0ed.png)
 ![image](https://user-images.githubusercontent.com/69225604/173145208-23c81345-49d7-4d8b-99a3-b7ba4cea0c39.png)
 ![image](https://user-images.githubusercontent.com/69225604/173145241-d5d42683-c83d-4811-ac55-d55bacf5e25b.png)
